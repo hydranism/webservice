@@ -1,0 +1,26 @@
+{
+  "name": "web_service",
+  "version": "1.0.0",
+  "description": "create and test web service",
+  "main": "web_service.js",
+  "dependencies": {
+    "mongoose": "^4.6.5",
+    "express": "~4.13.0",  
+    "body-parser": "~1.13.0",
+    "morgan" : "~1.6.0",
+    "compression" : "~1.5.0"
+    
+	
+ },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Hutta@bitbucket.org/Hutta/webservice.git"
+  },
+  "author": "Dev_portal",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/Hutta/webservice#readme"
+}
